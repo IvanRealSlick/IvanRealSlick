@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ivan</h1>
 <h3 align="center">SAMP/Web Developer passionate in solving complex problems and crafting user-friendly and responsive designs.</h3>
 
-- 👨‍💻 All of my projects are available here or at my github account
+- 👨‍💻 All of my projects are available here at my github account
 
 - 💬 Ask me about **commissions and programming related questions**
 
